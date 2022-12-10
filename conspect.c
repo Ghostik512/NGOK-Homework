@@ -165,6 +165,13 @@ int mass [SIZE] = {0};
 void fill (int*array, int size);
 void printArray, int size);
 int main (void){
+    int*array=(int a)calloc(100, sizeof(int));
+    //calloc - возвр. значение void*
+    //100 - сколько ячеек
+    //sizeof(int) - какого размера ячейки
+    array[i];
+    for(int i=0; i<100; ++i){
+        scanf("%d",array
 }
 void fill (int*array, int size){
     for (int i=0: i<SIZE; ++i){
