@@ -161,7 +161,7 @@ while(chetchik<SIZE){
 //git add . - добавить всё
 //git commit -m "comment" - закомментировать изменения для push 
 //git pull origin main(название ветки) - стянуть(скачать изменение для github
-
+int mass [SIZE] = {0};
 
 
 
