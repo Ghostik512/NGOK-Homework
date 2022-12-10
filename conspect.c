@@ -171,11 +171,12 @@ int main (void){
     //sizeof(int) - какого размера ячейки
     array[i];
     for(int i=0; i<100; ++i){
-        scanf("%d",array
+        scanf("%d",int*array int size);
+        
 }
 void fill (int*array, int size){
-    for (int i=0: i<SIZE; ++i){
-        scanf;
+    for (int i=0: i<size; ++i){
+        scanf("%d",i,&array[i]);
     }
     printf ("%d": \n; SIZE);
     for (int i=0; i<SIZE; ++i);
@@ -183,5 +184,7 @@ void fill (int*array, int size){
     scanf("%d", &array[i]);
 }
 void printArray(int*array, int size){
-    for;
+    for(int i=0, i<size, ++i){
+        printf("array[%d]=%d\n",i,array[i]);
+    }
 }
