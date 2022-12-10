@@ -162,20 +162,19 @@ while(chetchik<SIZE){
 //git commit -m "comment" - закомментировать изменения для push 
 //git pull origin main(название ветки) - стянуть(скачать изменение для github
 int mass [SIZE] = {0};
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//КТО ПРОЧИТАЛ ТОТ ГЕЙ
-//бич, я аристократичный папочка, сын мияги вылетел как бабочка
+void fill (int*array, int size);
+void printArray, int size);
+int main (void){
+}
+void fill (int*array, int size){
+    for (int i=0: i<SIZE; ++i){
+        scanf;
+    }
+    printf ("%d": \n; SIZE);
+    for (int i=0; i<SIZE; ++i);
+    printf ("array[%d]= ",i);
+    scanf("%d", &array[i]);
+}
+void printArray(int*array, int size){
+    for;
+}
